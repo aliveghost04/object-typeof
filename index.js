@@ -42,7 +42,7 @@ module.exports = {
 	isUndefined: object => {
 		return is('undefined', object);
 	},
-	isArray: object => {
+	isArray: Array.isArray || function (object) {
 		return is('array', object);
 	},
 	isString: object => {
