@@ -1,6 +1,6 @@
 {
   "name": "object-typeof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Determinate the type of and variable",
   "main": "index.js",
   "scripts": {
