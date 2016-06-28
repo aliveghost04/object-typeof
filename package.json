@@ -1,32 +1,32 @@
 {
-  "name": "object-typeof",
-  "version": "1.0.1",
-  "description": "Determinate the type of and variable",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/aliveghost04/object-typeof.git"
-  },
-  "keywords": [
-    "typeof",
-    "variable",
-    "object",
-    "determinate",
-    "javascript",
-    "npm",
-    "js"
-  ],
-  "author": "Erick Jimenez",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aliveghost04/object-typeof/issues"
-  },
-  "homepage": "https://github.com/aliveghost04/object-typeof#readme",
-  "devDependencies": {
-    "mocha": "^2.5.3",
-    "should": "^9.0.2"
-  }
+	"name": "object-typeof",
+	"version": "1.0.1",
+	"description": "Determinate the type of a variable",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha test.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/aliveghost04/object-typeof.git"
+	},
+	"keywords": [
+		"typeof",
+		"variable",
+		"object",
+		"determinate",
+		"javascript",
+		"npm",
+		"js"
+	],
+	"author": "Erick Jimenez",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/aliveghost04/object-typeof/issues"
+	},
+	"homepage": "https://github.com/aliveghost04/object-typeof#readme",
+	"devDependencies": {
+		"mocha": "^2.5.3",
+		"should": "^9.0.2"
+	}
 }

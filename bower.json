@@ -1,0 +1,27 @@
+{
+  "name": "object-typeof",
+  "main": "index.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/aliveghost04/object-typeof",
+  "authors": [
+    "Erick Jimenez <erick.jimenezr04@gmail.com>"
+  ],
+  "description": "Determinate the type of a variable",
+  "keywords": [
+    "typeof",
+    "variable",
+    "object",
+    "determinate",
+    "javascript",
+    "npm",
+    "js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
